@@ -14,11 +14,9 @@ public class TodoPrint {
         //      - Diablo
 
 
-        System.out.println(text);
-
         StringBuilder sb = new StringBuilder();
         sb.append("My todo:\n").append(text).append(" - Download games\n\t - Diablo"); ///(v poradi 1. n, 2. t)
-
+        System.out.println(text);
         System.out.println(sb);
     }
 
