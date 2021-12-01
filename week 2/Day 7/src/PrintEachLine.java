@@ -17,7 +17,7 @@ public class PrintEachLine {
             }
         }
         catch (IOException chyba) {
-            System.out.println("not founded .txt");
+            System.out.println("Unable to read .txt");
         }
 
 
