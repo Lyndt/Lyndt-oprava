@@ -4,18 +4,21 @@ public class DividedByZero {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("What number u wanna divide by 0? : ");
-        double usersNum = scanner.nextLine();
+        System.out.println("What number u wanna divide by 10? : ");
+        int usersNum = scanner.nextInt();
 
         divideByNum(usersNum);
     }
 
-    private static void divideByNum(double usersNum) {
+    private static void divideByNum(int usersNum) {
 
         try {
-            double num10 = 10;
-            double a = num10 / usersNum;
-            System.out.println(10 +  " / " + usersNum+ " = " a);
+            int num10 = 10;
+            int a = num10 / usersNum;
+            System.out.println(num10 + " / " + usersNum + " = " + a);
+        }
+        catch (ArithmeticException zero){
+            System.out.println("U can't divide by zero!");
         }
     }
 }
