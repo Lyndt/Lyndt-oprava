@@ -26,10 +26,8 @@ public class Doubled {
 
         try {
             lines = Files.readAllLines(pathFileName);
-        } catch (FileNotFoundException e1) {
+        } catch (IOException error) {
             System.err.println("File not found");
-        } catch (IOException e2) {
-            e2.printStackTrace();
         }
 
 
@@ -44,8 +42,8 @@ public class Doubled {
         }
         try {
             Files.write(outPut, decryptedLines);
-        } catch (IOException e2) {
-            e2.printStackTrace();
+        } catch (IOException error2) {
+            System.err.println("there is not such a file");
         }
 
 
