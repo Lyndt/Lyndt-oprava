@@ -4,15 +4,19 @@ import java.awt.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class MIddleLines {
-    public static void drawImage(Graphics graphics){
-        // draw a red horizontal line to the center of the canvas
-        // draw a green vertical line to the center of the canvas
+public class ColoredBox {
+    public static void drawImage(Graphics graphics) {
+        // Draw a box that has different colored lines on each edge
 
-        graphics.setColor(Color.green);
-        graphics.drawLine(WIDTH/2, 1, HEIGHT /2, HEIGHT/2);
         graphics.setColor(Color.red);
-        graphics.drawLine(1, HEIGHT / 2, WIDTH / 2, WIDTH / 2);
+        graphics.drawLine(20,20,40,20);
+        graphics.setColor(Color.green);
+        graphics.drawLine(40, 20, 40, 40);
+        graphics.setColor(Color.orange);
+        graphics.drawLine(40, 40, 20, 40);
+        graphics.setColor(Color.pink);
+        graphics.drawLine(20, 40, 20, 20);
+
 
 
     }
