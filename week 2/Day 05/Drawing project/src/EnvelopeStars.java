@@ -20,11 +20,11 @@ public class EnvelopeStars {
 //            graphics.drawLine(j, 0, WIDTH, j);
 //        }
         graphics.setColor(Color.green);
-        for (int i = 15; i <= 250; i = i + 15) {
-            graphics.drawLine(250, 250 + i, i, 250); //leva spodni
+        for (int i = 15; i <= 250; i = i + 15) {                          //začíná 15 (stejnahodnota jako radek) aby vynechala stredovou caru
+            graphics.drawLine(250, 250 + i, i, 250);           //leva spodni
             graphics.drawLine(250, 250 + i, 500 - i, 250); //prava spodni
             graphics.drawLine(250, 250 - i, 500 - i, 250); //prava horni
-            graphics.drawLine(250, 250 - i, i, 250); //leva horni
+            graphics.drawLine(250, 250 - i, i, 250);           //leva horni
         }
 
 
