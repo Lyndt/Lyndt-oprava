@@ -9,7 +9,7 @@ public class LinePlay {
         // draw a red horizontal line to the center of the canvas
         // draw a green vertical line to the center of the canvas
 
-        for (int i = 25; i <WIDTH; i+= 25) {
+        for (int i = 25; i <WIDTH; i+= 25) { //chyba v loopu, dělala jsem pricitani jedne ze zvyku, proto mi to vyplnovalo barvu
             graphics.setColor(Color.green);
             graphics.drawLine(0, i, i,HEIGHT);
         }
