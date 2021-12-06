@@ -1,8 +1,9 @@
 public class Strings {
     public static void main(String[] args) {
+        System.out.println(changeXtoY("mx lovelx puppx"));
 
     }
-    public String changeXtoY(String str)
+    public static String changeXtoY(String str)
     {
         char singleChar;
         if(str.length() == 0)
