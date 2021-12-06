@@ -21,7 +21,7 @@ public class Strings3 {
     }
     public static String stringWithStars(String string)
     {
-        if(string.length() < 2)
+        if(string.length() < 1)
             return string;
         return string.charAt(0) + "*" + stringWithStars(string.substring(1));
     }
