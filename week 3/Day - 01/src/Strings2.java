@@ -2,9 +2,10 @@ import java.nio.charset.StandardCharsets;
 
 public class Strings2 {
     public static void main(String[] args) {
+        System.out.println(removeAllX("mx lovelx puppx"));
 
     }
-    public String removeAllX(String str)
+    public static String removeAllX(String str)
     {
         char singleChar;
         if(str.length() == 0)
