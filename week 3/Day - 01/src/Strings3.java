@@ -19,11 +19,11 @@ public class Strings3 {
 //        }
 //         pairStars(input, i + 1);
     }
-    public static String stringWithStars(String str)
+    public static String stringWithStars(String string)
     {
-        if(str.length() < 2)
-            return str;
-        return str.charAt(0) + "*" + stringWithStars(str.substring(1));
+        if(string.length() < 2)
+            return string;
+        return string.charAt(0) + "*" + stringWithStars(string.substring(1));
     }
 
 }
