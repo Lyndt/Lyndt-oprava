@@ -1,6 +1,6 @@
 public class Animal {
     int hunger;
-    protected int thirst;
+    int thirst;
 
     public Animal(int hunger, int thirst) {
         this.hunger = hunger;
