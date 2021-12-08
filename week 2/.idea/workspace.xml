@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a7b4e1d-ad61-440d-a0ac-55ca2e4c565e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 05/Drawing project/src/LinePlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/src/FourRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Day - 02/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Day - 02/src/Sharpie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3/Day - 02/out/production/Day - 02/BlockPost/BlogPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week 3/Day - 02/out/production/Day - 02/BlockPost/BlogPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3/Day - 02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week 3/Day - 02/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 05" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
