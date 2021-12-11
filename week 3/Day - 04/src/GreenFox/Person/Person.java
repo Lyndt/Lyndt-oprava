@@ -1,40 +1,52 @@
 package GreenFox.Person;
 
 public class Person {
-    protected String name;
-    protected int age;
-    protected String gender;
+    private String name;
+    private int age;
+    private String gender;
 
+    public void getGoal(){
+        System.out.println("My goal is: Live for the moment!");
+    }
+
+    public void introduce(){
+        System.out.println("Hi, I'm " + name + " , a " + age + " year old " + gender);
+    }
+
+    public Person() {
+        this.name = "Jane Doe";
+        this.age = 30;
+        this.gender = "female";
+    }
 
     public Person(String name, int age, String gender) {
         this.name = name;
         this.age = age;
         this.gender = gender;
     }
-    public String myGoal() {
-        return "My goal is: ";
-
-    }
 
     public String getName() {
         return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getAge() {
         return age;
     }
 
+    public void setAge(int age) {
+        this.age = age;
+    }
+
     public String getGender() {
         return gender;
     }
 
-    public void getGoal() {
-        System.out.println("My goal is: Live for the moment!");
-    }
-
-
-    public void introduce() {
-        System.out.println("Hi, I'm " + getName() + ", a " + getAge() + " years old.");
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 
 }
