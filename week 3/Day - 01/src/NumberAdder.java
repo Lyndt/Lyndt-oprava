@@ -4,7 +4,7 @@ public class NumberAdder {
 
     }
     public static int recursiveN(int n) {
-        if (n < 1) {
+        if (n < 1 ) {
             return 0;
         }
         else {
