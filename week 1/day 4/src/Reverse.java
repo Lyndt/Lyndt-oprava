@@ -11,7 +11,7 @@ public class Reverse {
         }
 
         for (int el : numbers){
-            System.out.println(el);
+            System.out.print(el);
         }
     }
 }
