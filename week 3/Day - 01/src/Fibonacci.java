@@ -5,7 +5,7 @@ public class Fibonacci {
 //            System.out.println(fibonacci(index));
 //            index++;
 //        }
-        System.out.println(fibonacci(13));
+        System.out.println(fibonacci(23));
         // n = 3/ fibon 3/ fibon 2 + fibon 1 = 1 + 1
         // n = 4/ fibon 4/ fibon 3 + fibon 2 = 2 + 1
         // n = 5/ fibon 5/ fibon 4 + fibon 3 = 3 + 2....
