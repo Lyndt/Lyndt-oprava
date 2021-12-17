@@ -5,6 +5,11 @@ import java.util.Arrays;
 public class SymetricMatrix {
     public static void main(String[] args) {
         int[][] matrix1 = {{1, 0, 1}, {0, 2, 2}, {1, 2, 5}};
+        if (isMatrixSymetric(matrix1, matrix1.length)){
+            System.out.println(true);
+        } else {
+            System.out.println(false);
+        }
 
 
 
