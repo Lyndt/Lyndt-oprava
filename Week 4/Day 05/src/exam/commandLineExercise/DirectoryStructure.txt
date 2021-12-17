@@ -1,0 +1,33 @@
+projects
+ |--program
+ |   |--.git
+ |   |--assets
+ |   |   |--data.md
+ |   |   |--picture_1.png
+ |   |   └--picture_2.jpg
+ |   └--data.txt
+ └--exam
+     |--data.txt
+     └--images
+         └--picture_3.jpg
+
+
+         command line:
+         mkdir project/exam/images
+         mkdir project/program/assets
+         cd project/program
+         git init
+         touch program/assets/data.md program/assets/picture_1.png program/assets/picture_2.jpg
+         cd ..
+         touch project/exam/images/picture_3.jpg
+         rm program/assets/data.md assets/data.txt
+         mv projects/program/assets/picture_1.png projcts/exam/images/
+         git status
+         git add .
+         git commit - "delete txt files and move image files"
+
+
+
+
+
+
