@@ -4,8 +4,15 @@ import java.util.Arrays;
 
 public class SymetricMatrix {
     public static void main(String[] args) {
-        int[][] matrix1 = {{1, 0, 1}, {0, 2, 2}, {1, 2, 5}};
-        if (isMatrixSymetric(matrix1, matrix1.length)){
+        int[][] example1 = {{1, 0, 1}, {0, 2, 2}, {1, 2, 5}};
+        if (isMatrixSymetric(example1, example1.length)){
+            System.out.println(true);
+        } else {
+            System.out.println(false);
+        }
+
+        int[][] example2 = {{7, 7, 7}, {6, 5, 7}, {1, 2, 1}};
+        if (isMatrixSymetric(example2, example2.length)) {
             System.out.println(true);
         } else {
             System.out.println(false);
