@@ -7,11 +7,10 @@ public class TodoAplication {
             System.out.println("Command Line Todo application");
             System.out.println("=============================");
             System.out.println();
-
             System.out.println("-l = Lists all the tasks");
             System.out.println("-a = Add new task");
             System.out.println("-r = removes an task");
-            System.out.println("-c = Copmletes an task");
+            System.out.println("-c = Completes an task");
 
             return;
         }
