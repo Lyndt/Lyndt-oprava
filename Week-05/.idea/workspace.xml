@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12aab436-08ac-4570-acf9-da7cc502ec09" name="Changes" comment="">
+    <list default="true" id="6f4c82d7-ecd8-4aa9-b80c-8eb508be28bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../week 1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 1/.idea/runConfigurations.xml" beforeDir="false" />
@@ -245,135 +245,6 @@
       <change beforePath="$PROJECT_DIR$/../week 1/day-4/src/SumElements.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 1/day-4/src/SwapElements.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 1/day-4/src/Third.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/.idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/Day 05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/Drawing project/Drawing project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/Drawing project/src/EnvelopeStars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/Drawing project/src/LinePlay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/EnvelopeStars$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/EnvelopeStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/LinePlay$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/LinePlay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/Drawing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/CenteredSquare$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/CenteredSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/ColoredBox$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/ColoredBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/Day 4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/Diagonals$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/Diagonals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/FourRectangles$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/FourRectangles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/GoToCenter$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/GoToCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/HorizontalLines$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/HorizontalLines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/MIddleLines$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/MIddleLines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/PositionSquare$ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/out/production/Drawing/PositionSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/CenteredSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/ColoredBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/Day 4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/Diagonals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/FourRectangles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/GoToCenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/HorizontalLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/MIddleLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 4/src/PositionSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/Reversed-Lines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/Workshop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/ListIntroduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/ListIntroduction2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/MapIntroduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/PersonalFinance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/ShoppingList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/ShoppingfList2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/SimpleReplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/SimpleReplace2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/TakesLonger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/TelephoneBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/TodoPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/out/production/Workshop/UrlFixer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/ListIntroduction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/ListIntroduction2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/MapIntroduction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/PersonalFinance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/ShoppingList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/ShoppingfList2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/SimpleReplace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/SimpleReplace2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/TakesLonger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/TelephoneBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/TodoPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 6/src/UrlFixer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/Day 7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/Doubled.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/duplicated-chars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/mujSoubor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/mujSoubor2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/my-file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/my-file1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/notDuplicated-chars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/DividedByZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/Doubled.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/PrintEachLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/WriteMultipleLines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/out/production/Day 7/WriteSingleLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/CopyFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/DividedByZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/Doubled.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/PrintEachLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/WriteMultipleLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/Day 7/src/WriteSingleLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2/src/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,7 +254,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="22EwvhT73NkDYev0DsezJzTqreg" />
+  <component name="ProjectId" id="23YhLbICP5HzQBZT2cFih7WLLYR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -392,44 +263,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week-02" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="week-01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="week-01" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week-01" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12aab436-08ac-4570-acf9-da7cc502ec09" name="Changes" comment="" />
-      <created>1639416286872</created>
+      <changelist id="6f4c82d7-ecd8-4aa9-b80c-8eb508be28bc" name="Changes" comment="" />
+      <created>1641916872755</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639416286872</updated>
+      <updated>1641916872755</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
