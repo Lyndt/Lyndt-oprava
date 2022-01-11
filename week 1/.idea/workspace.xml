@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12aab436-08ac-4570-acf9-da7cc502ec09" name="Changes" comment="" />
+    <list default="true" id="12aab436-08ac-4570-acf9-da7cc502ec09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/CountLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/SymetricMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/MostCommonCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/TheMostCharLinda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/examPirates/pirates/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/examPirates/pirates/Pirate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/examPirates/pirates/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MojeCviceni/src/exercise/beforeExam/VoidOfNotVoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-2/first-task/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/week 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/week-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/MojeCviceni/src/OOP/mostCommonCharacter/countchar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/novy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/novy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/tasks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/temp_images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/temp_images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/temp_images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/temp_images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/temp_images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/temp_images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/temp_images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/temp_images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/git-lesson-repository/temp_images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/temp_images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/hello-world/pozdrav.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/hello-world/pozdrav.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/hello-world/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/hello-world/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 01/hello-world/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/hello-world/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-1/git-lesson-repository/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/css/dvere.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/css/dvere.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/images/vrata.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/images/vrata.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/novy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/novy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/tasks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/temp_images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/temp_images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/temp_images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/temp_images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/temp_images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/temp_images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/temp_images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/temp_images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 02/first-task/temp_images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/first-task/temp_images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/Day 03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/Day 03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/AnimalsAndLegs.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/AnimalsAndLegs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/AverageOfInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/AverageOfInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/Bmi.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/Bmi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/CodingHours.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/CodingHours.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/ConditionalVariableMutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/ConditionalVariableMutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/CountFromTo.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/CountFromTo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/Cuboid.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/Cuboid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/DefineBasicInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/DefineBasicInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/DrawDiagonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/DrawDiagonal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/DrawPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/DrawPyramid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/DrawPyramid2.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/DrawPyramid2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/DrawTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/DrawTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/FavoriteNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/FavoriteNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/GuessTheNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/GuessTheNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/HelloMe.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/HelloMe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/HelloOthers.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/HelloOthers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/HelloUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/HelloUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/HumptyDumpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/HumptyDumpty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/IWontCheatOnTheExams.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/IWontCheatOnTheExams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/IntroduceYourself.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/IntroduceYourself.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/MileToKmConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/MileToKmConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/OddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/OddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/OneTwoALot.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/OneTwoALot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/PartyIndicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/PartyIndicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/PrintBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/PrintBigger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/PrintEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/PrintEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/SecondsInADay.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/SecondsInADay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/Swap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/TwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/TwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/VariableMutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/VariableMutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/day 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/day 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/out/production/day 3/src/DrawChess.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/day 3/src/DrawChess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/AnimalsAndLegs.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/AnimalsAndLegs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/AverageOfInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/AverageOfInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/CodingHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/CodingHours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/ConditionalVariableMutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/ConditionalVariableMutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/CountFromTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/CountFromTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DefineBasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DefineBasicInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DrawChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DrawChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DrawDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DrawDiagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DrawPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DrawPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DrawPyramid2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DrawPyramid2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/DrawTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/DrawTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/FavoriteNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/FavoriteNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/HelloMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/HelloMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/HelloOthers.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/HelloOthers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/HelloUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/HelloUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/HumptyDumpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/HumptyDumpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/IWontCheatOnTheExams.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/IWontCheatOnTheExams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/IntroduceYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/IntroduceYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/MileToKmConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/MileToKmConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/OneTwoALot.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/OneTwoALot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/PartyIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/PartyIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/PrintBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/PrintBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/PrintEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/PrintEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/SecondsInADay.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/SecondsInADay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/TwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/TwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/VariableMutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/VariableMutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 03/src/day 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/day 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/Day 04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/Day 04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/AppendA.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/AppendA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/ChangeElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/ChangeElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/Colores.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/Colores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/CompareLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/CompareLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/DoubleItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/DoubleItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/Doubling.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/Doubling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/FuncAppendAFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/FuncAppendAFunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/FuncDoubling.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/FuncDoubling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/FuncFactorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/FuncFactorio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/FuncGreet.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/FuncGreet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/GreetAl.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/GreetAl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/IncrementElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/IncrementElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/PrintAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/PrintAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/SumAllElelemnts.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/SumAllElelemnts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/SumElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/SumElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/SwapElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/SwapElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/out/production/Day 4/Third.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/out/production/Day 4/Third.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/AppendA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/AppendA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/ChangeElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/ChangeElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/Colores.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Colores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/CompareLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/CompareLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/DoubleItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/DoubleItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Doubling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/FuncAppendAFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/FuncAppendAFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/FuncDoubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/FuncDoubling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/FuncFactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/FuncFactorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/FuncGreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/FuncGreet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/GreetAl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/GreetAl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/IncrementElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/IncrementElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/PrintAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/PrintAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/SumAllElelemnts.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/SumAllElelemnts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/SumElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/SumElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/SwapElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/SwapElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 04/src/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/LinePlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2/Day 05/out/production/Drawing project/LinePlay.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +208,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../week 2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="week-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="week-01" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,5 +245,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

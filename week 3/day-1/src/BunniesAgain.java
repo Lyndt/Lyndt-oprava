@@ -1,6 +1,9 @@
 public class BunniesAgain {
     public static void main(String[] args) {
         System.out.println(bunniesEars(2));
+
+
+
     }
     public static int bunniesEars(int bunnies) {
         if (bunnies == 0) {
