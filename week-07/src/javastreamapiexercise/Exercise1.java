@@ -21,8 +21,16 @@ public class Exercise1 {
         //TODO:Write a method to return a list of uppercase characters from a given string using the Stream API.
 //        System.out.println(returnUpperCase());
         //TODO: Write a method to return a list of strings which start with the specified character (method parameter) using the Stream API.
-        System.out.println(exercise7("R"));
-        System.out.println(exercise7("N"));
+//        System.out.println(exercise7("R"));
+//        System.out.println(exercise7("N"));
+        //TODO: Write a method to return a string concatenated from a given list of characters using the Stream API.
+        System.out.println(concatenated());
+
+    }
+
+    private static String concatenated() {
+        List<Character> characters = Arrays.asList('L', 'o', 'r', 'e', 'm', ' ', 'i', 'p', 's', 'u', 'm');
+        characters.stream()
 
     }
 
