@@ -1,8 +1,7 @@
 package javastreamapiexercise;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 
@@ -25,6 +24,17 @@ public class Exercise1 {
 //        System.out.println(exercise7("N"));
         //TODO: Write a method to return a string concatenated from a given list of characters using the Stream API.
 //        System.out.println(concatenated());
+        //TODO: Write a method to return a map specifying the frequency of characters in a given string using the Stream API.
+        System.out.println(frequencyOfCharacters());
+
+    }
+
+    private static Map<Character, Integer> frequencyOfCharacters() {
+        String s = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.";
+        HashMap<Character, Integer> mapOfFrequency = new HashMap<>();
+        return s.chars()
+                .mapToObj(c -> (char) c)
+                .collect(Collectors.toMap(Function.identity(), c -> 1, Math::addExact));
 
     }
 
