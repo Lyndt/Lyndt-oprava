@@ -24,13 +24,16 @@ public class Exercise1 {
 //        System.out.println(exercise7("R"));
 //        System.out.println(exercise7("N"));
         //TODO: Write a method to return a string concatenated from a given list of characters using the Stream API.
-        System.out.println(concatenated());
+//        System.out.println(concatenated());
 
     }
 
     private static String concatenated() {
         List<Character> characters = Arrays.asList('L', 'o', 'r', 'e', 'm', ' ', 'i', 'p', 's', 'u', 'm');
-        characters.stream()
+        return characters.stream()
+                .map(String::valueOf)
+                .collect(Collectors.joining());
+
 
     }
 
@@ -43,7 +46,6 @@ public class Exercise1 {
         return specialWord;
 
 
-
     }
 
     private static List<Character> returnUpperCase() {
@@ -51,7 +53,7 @@ public class Exercise1 {
         List<Character> upperCaseCharacters = new ArrayList<>();
         s.chars()
                 .filter(Character::isUpperCase)
-                .mapToObj(c -> (char)c)
+                .mapToObj(c -> (char) c)
                 .forEach(upperCaseCharacters::add);
         return upperCaseCharacters;
 
