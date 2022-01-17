@@ -20,15 +20,30 @@ public class Exercise1 {
 //        System.out.println(sumOfOdd());
         //TODO:Write a method to return a list of uppercase characters from a given string using the Stream API.
 //        System.out.println(returnUpperCase());
+        //TODO: Write a method to return a list of strings which start with the specified character (method parameter) using the Stream API.
+        System.out.println(exercise7("R"));
+        System.out.println(exercise7("N"));
 
     }
 
-    private static List<String> returnUpperCase() {
+    private static List<String> exercise7(String n) {
+        List<String> cities = Arrays.asList("ROME", "LONDON", "NAIROBI", "CALIFORNIA", "ZURICH", "NEW DELHI", "AMSTERDAM", "ABU DHABI", "PARIS");
+        List<String> specialWord = new ArrayList<>();
+        cities.stream()
+                .filter(s -> s.startsWith(n))
+                .forEach(specialWord::add);
+        return specialWord;
+
+
+
+    }
+
+    private static List<Character> returnUpperCase() {
         String s = "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Morbi nec mattis odio.";
-        List<String> upperCaseCharacters = new ArrayList<>();
+        List<Character> upperCaseCharacters = new ArrayList<>();
         s.chars()
                 .filter(Character::isUpperCase)
-                .mapToObj(c -> Character.toString((char)c))
+                .mapToObj(c -> (char)c)
                 .forEach(upperCaseCharacters::add);
         return upperCaseCharacters;
 
