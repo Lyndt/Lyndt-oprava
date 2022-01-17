@@ -1,4 +1,4 @@
-package com.exam.fileio.oop;
+package com.exam.fileio.oop.books;
 
 public abstract class Book {
     //TODO: Every book has a title, an author, a release year
