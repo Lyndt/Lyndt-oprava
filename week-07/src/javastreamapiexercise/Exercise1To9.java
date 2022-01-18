@@ -5,7 +5,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 
-public class Exercise1 {
+public class Exercise1To9 {
     public static void main(String[] args) {
         //TODO: Write a method to return a list of even numbers from the list of integers below using the Stream API.
 //        System.out.println(evenNumbers());
@@ -31,10 +31,10 @@ public class Exercise1 {
 
     private static Map<Character, Integer> frequencyOfCharacters() {
         String s = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.";
-        HashMap<Character, Integer> mapOfFrequency = new HashMap<>();
         return s.chars()
                 .mapToObj(c -> (char) c)
                 .collect(Collectors.toMap(Function.identity(), c -> 1, Math::addExact));
+
 
     }
 
